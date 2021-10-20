@@ -1,5 +1,5 @@
 // import { Home } from './pages'
-import {Sidebar} from './layout'
+import { Sidebar } from './layout'
 
 const App = () => {
   return (
